@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Technical Specs
+* Other Arduino Boards
+  * Arduino Nano
+  * Arduino Micro.
+ 
